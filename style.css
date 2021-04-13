@@ -85,3 +85,15 @@ p{
     font-size: 20px;
 }
 .links:hover{background-color: dodgerblue;}
+a{
+    text-decoration:none;
+}
+.article:hover{
+    color:blue
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    text-align: center;
+}
